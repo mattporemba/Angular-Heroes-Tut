@@ -29,4 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Angular-Heroes-Tut
 https://angular.io/tutorial
+
+# END
 >>>>>>> 6ae72935af0c23fe2866c83b001090638022b2e3
